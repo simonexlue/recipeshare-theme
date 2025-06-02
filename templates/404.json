@@ -9,12 +9,12 @@
  */
 {
   "sections": {
-    "recipe-detail": {
-      "type": "recipe-detail",
+    "main": {
+      "type": "main-404",
       "settings": {}
     }
   },
   "order": [
-    "recipe-detail"
+    "main"
   ]
 }

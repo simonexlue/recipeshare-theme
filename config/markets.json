@@ -8,13 +8,5 @@
  * ------------------------------------------------------------
  */
 {
-  "sections": {
-    "recipe-detail": {
-      "type": "recipe-detail",
-      "settings": {}
-    }
-  },
-  "order": [
-    "recipe-detail"
-  ]
+  "markets": {}
 }

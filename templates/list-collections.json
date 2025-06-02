@@ -9,12 +9,18 @@
  */
 {
   "sections": {
-    "recipe-detail": {
-      "type": "recipe-detail",
-      "settings": {}
+    "main": {
+      "type": "main-list-collections",
+      "settings": {
+        "title": "Collections",
+        "sort": "alphabetical",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "columns_mobile": "2"
+      }
     }
   },
   "order": [
-    "recipe-detail"
+    "main"
   ]
 }
